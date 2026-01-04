@@ -37,14 +37,3 @@ I am a software developer with a strong focus on creating efficient and creative
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 </p>
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=swaznaj7&show_icons=true&locale=en&layout=compact" alt="swaznaj7" />
-</p>
-
-### 📫 Connect with me
-
-<p align="left">
-<a href="https://www.youtube.com/c/prod.swaznaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="prod.swaznaj" height="30" width="40" /></a>
-</p>
