@@ -11,7 +11,7 @@
 
 I am a software developer with a strong focus on creating efficient and creative solutions. I enjoy turning complex problems into simple, beautiful, and intuitive designs. 
 
-- 🔭 **I’m currently working on:** secret project
+- 🔭 **I’m currently working on:** Mechify
 - 🌱 **I’m currently learning:** Cybersecurity Fundamentals
 
 ### ⚡ Things I Like
